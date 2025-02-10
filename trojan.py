@@ -4,7 +4,7 @@ import subprocess
 import threading
 import os
 
-IP = "192.168.15.3"
+IP = "0.0.0.0"
 PORT = 443
 
 
